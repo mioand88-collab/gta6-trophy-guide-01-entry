@@ -1,0 +1,867 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "about": "Guide text, missable flags and the roadmap in this file were written for this guide from the official trophy descriptions; every entry cites its sources. Trophy names, descriptions and grades are the official list.",
+  "roadmap": [
+    {
+      "step": 1,
+      "title": "Play the story, eyes open for choices",
+      "detail": "Work through the chapters and named story missions in order — they are the spine of the platinum and unlock everything else. Two trophies quietly depend on how you play: Actions Speak Louder counts 500 choices across the whole game, so never skip a choice prompt, and Bad Luck, I Guess needs you to fail once and succeed on the retry, so bank it early on a cheap race or challenge. Keep rotating manual saves before big decisions.",
+      "trophies": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        7,
+        48,
+        49
+      ],
+      "missables": [
+        48,
+        49
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Finish every stranger strand as it unlocks",
+      "detail": "Stranger markers appear as the story opens the map. Complete each strand to its final mission — Andy, Kenton, Billy, Randy, Tyrone and Bret's hunting strand are six of the eight you need for Strangers & Freaks. Doing them as they appear keeps the endgame list short and Bret's unique-animal hunt is easiest while his territory is fresh in mind.",
+      "trophies": [
+        22,
+        23,
+        24,
+        26,
+        27,
+        29,
+        25
+      ],
+      "missables": []
+    },
+    {
+      "step": 3,
+      "title": "Take the activities tour",
+      "detail": "Sweep the leisure layer of Leonida: try all 9 activity types once, gold all 42 Shooting Range challenges, win the drone race at all 14 Top Fun locations, win 20 different races, beat Cal at fishing, finish an arcade game, bowl at Kolt & Associates, meditate at all 18 spots and bank 50 challenges. Most of these sit in or near areas you explore in step 5, so chain them by region.",
+      "trophies": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        46,
+        28,
+        32,
+        15
+      ],
+      "missables": []
+    },
+    {
+      "step": 4,
+      "title": "Free-roam feats and the crime spree",
+      "detail": "The deliberate-setup trophies. With your partner: build a 4-star wanted level and lose it, and chain 3 shop robberies without the heat clearing. Solo: 5 takedowns in one Combat Focus, an unscheduled departure from VCIA, a Rhino encounter, an undetected jewelry robbery, 5 bank vaults, an armored truck, and one illegal operation robbed from each of the 9 gangs. Finish with the small set-pieces: the Ocean Beach cocktail, the showroom breakout, the melee drive-by and witnessing something strange.",
+      "trophies": [
+        33,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        51,
+        50,
+        47
+      ],
+      "missables": []
+    },
+    {
+      "step": 5,
+      "title": "Collectibles and the full map tour",
+      "detail": "Complete 3 Collectible Card sets (finish nearly-complete sets first), WAiNK It at 100 locations, discover 100 vehicles by driving new models, and explore all 52 areas of Leonida. Do these as one long tour — the meditation spots from step 3 and the strange-event trophy both tend to fall out of it on the way.",
+      "trophies": [
+        30,
+        31,
+        35,
+        42
+      ],
+      "missables": []
+    },
+    {
+      "step": 6,
+      "title": "The money endgame",
+      "detail": "Route every robbery payout through your laundering contacts until $250,000 of Marked Bills is laundered, spend $100,000 across shops as you upgrade, register 10 vehicles to the Scooter Bros app, and buy all 8 garage properties — the garages are the long pole, so buy them as they unlock rather than saving for a single spree.",
+      "trophies": [
+        52,
+        53,
+        55,
+        54
+      ],
+      "missables": []
+    },
+    {
+      "step": 7,
+      "title": "100% completion, then the platinum",
+      "detail": "Open the in-game 100% checklist and mop up whatever category is still short — by now it is usually a handful of stunts (you need 250 in total) or a missed activity. When A Long Road pops for 100%, the platinum, Vice Got a Price!, fires automatically once every other trophy is earned.",
+      "trophies": [
+        14,
+        1
+      ],
+      "missables": []
+    }
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "completion",
+      "missable": false,
+      "guide": "The platinum unlocks automatically the moment the other 54 trophies are all earned, so there is nothing separate to do for it. Use the tracker: when every other card is ticked, this one pops on its own. If it does not fire, check the two golds first — the final mission and 100% completion are the ones players most often leave half-finished.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Story trophy for the opening mission, Gone Fishing. It plays straight after the intro and teaches the basics, so just follow the on-screen prompts and finish it — the trophy pops at the mission's end screen. It cannot be skipped or missed.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 1. Chapters advance automatically as you complete the marked main missions on the map, and this pops when the chapter wraps up. Story progress is never locked out, so you can always come back to it.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 2. Keep following the main mission markers; side content can wait. While you are in this chapter, start making the choices Actions Speak Louder counts, and keep a manual save before big story decisions.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 3. By now both protagonists' strands are open — clear each marked main mission to close the chapter. Nothing here is missable; the chapter trophy pops on completion.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Finish every story mission in Chapter 4, the last full chapter before the endgame stretch. Clear the marked main missions in order and the trophy pops as the chapter ends. Keep rotating manual saves from here on — the choice-based trophy is still counting.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "guide": "Gold story trophy for completing the final mission of the campaign. It is the natural end of the chapter trophies above; finish the story and it pops during the finale wrap-up. Before starting the finale, finish any stranger strands you care about so the post-game cleanup list is shorter.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Breakfast Run. It is a main-path mission, so it unlocks in sequence — play it when its marker appears and finish it. Not missable.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission The Cartel Heist. This is a set-piece heist on the main path; prepare the approach the mission asks for, finish the job, and the trophy pops on completion. Not missable.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Child's Play. A main-path mission that appears in sequence — finish it when the marker shows. Not missable.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Headliners. Main-path mission; finish it when it becomes available. Not missable.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission VCIA Takedown, set around Vice City International Airport. Main-path mission — finish it in sequence. While you are at the airport, note that Catch Me If You Can also uses VCIA, so you can plan both around the same trip.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "guide": "Complete the story mission Operation Savage Glory. Main-path mission; finish it when its marker appears. Not missable.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "completion",
+      "missable": false,
+      "guide": "Gold trophy for reaching 100% completion on the game's own completion counter. The counter covers the story, stranger strands, activities, collectibles and exploration tracked elsewhere in this guide — there is no single trick, so work the categories in the roadmap order: story, strands, activities, collectibles, exploration, then the money grinds. Check the in-game 100% checklist to find what is still open rather than guessing, and leave this as the last big push before the platinum.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Silver trophy for completing 250 stunts. Stunts are the game's stunt events scattered across Leonida — ramps, jumps and stunt challenges marked as you explore. Work them region by region whenever you pass one instead of grinding all 250 at the end; a fast car or bike makes most of them trivial. Your running total is visible in the stats, so check it before planning a dedicated stunt session.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Try each of the game's 9 activity types at least once — races, shooting range, fishing, drone races, arcade games, meditation, hunting and the rest of the leisure activities on the map. You only need a single attempt at each type, not a win, so this is a quick tour: open the map's activity filters, visit one of each icon, and the trophy pops when the last new type is tried.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Silver trophy: earn a gold medal in all 42 Shooting Range challenges. Visit every shooting range in Leonida and clear each weapon challenge at gold standard. Learn one weapon class at a time, use the range's own practice runs to learn target patterns before a scored attempt, and retry freely — attempts are repeatable, so this is patience, not luck. Track which ranges still owe you a gold in the tracker.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Win a Top Fun drone race at every one of the 14 locations. You must finish first, not just take part. Learn each course with a sighting run, then race it properly; the drone handling is identical at every site, so the later courses go faster once the controls click. Tick each location off in the tracker as you win it.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Win 20 different races — repeats of the same race do not add to the count, so keep moving to new race markers across the map. Any race type counts. Bring a competitive vehicle for your class and tick each distinct win off; 20 unique wins is shorter than it sounds once you chain races region by region.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Beat Cal in a fishing challenge. Find Cal's fishing challenge, accept it, and land the better catch inside the challenge rules. Upgrade your rod and bait first if the shop allows it, and fish the challenge spot rather than wandering — the target fish are concentrated where the challenge is set.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Complete one arcade game from start to finish at any arcade cabinet in Leonida. Pick the shortest game on the cabinet, play it through to its end screen rather than quitting mid-run, and the trophy pops. Five to ten minutes, once.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Complete Andy's stranger strand through to his final mission. Stranger strands appear as question-mark markers as the story opens up; do each of Andy's missions as they appear so the strand never stalls, and the trophy pops at the end of his last one. Eight finished strands also feed Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Complete Kenton's stranger strand through to his final mission. Work each of Kenton's missions as the strand unlocks them and finish the finale. Counts toward the 8 strands needed for Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Complete Billy's stranger strand through to his final mission. Follow Billy's markers whenever they appear and finish his last mission. Counts toward the 8 strands needed for Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "side",
+      "missable": false,
+      "guide": "Silver trophy for completing 8 full mission strands for strangers across Leonida. Each strand is a chain: an intro meeting, follow-ups, and a final mission — only finished strands count. Andy, Kenton, Billy, Randy, Tyrone and Bret's strands are six of them; pick up every new stranger marker you see and you will pass 8 without backtracking. The individual finale trophies in this guide mark the strands to prioritise.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Complete Randy's stranger strand through to his final mission — his strand is the Supply & Demand chain. Do each step as it unlocks and finish the finale. Counts toward Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Complete Tyrone's stranger strand through to his final mission. Follow Tyrone's markers as they appear and finish the last one. Counts toward Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Meditate at all 18 meditation spots across Leonida. The spots are quiet scenic locations marked as you explore; interact with each spot and complete the short meditation. Chain them into your exploration for The Goodtime State — most spots sit inside areas you need to visit anyway — and tick them off region by region.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "side",
+      "missable": false,
+      "guide": "Hunt a unique animal for Bret. Take Bret's hunting request, track the named unique animal in its territory, and bring it down. Unique animals are one-off spawns tied to the request, so follow the strand's clues rather than hunting random wildlife. Finishing Bret's strand also counts toward Strangers & Freaks.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "guide": "Silver trophy for completing 3 full Collectible Card sets. Cards are found all over Leonida — on tables, counters and landmarks — and each set is a themed group. You do not need every card in the game, just 3 complete sets, so focus your hunting on finishing sets you have nearly closed instead of scattering effort. Check the collection screen to see which sets are closest.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "guide": "Silver trophy: use WAiNK It at 100 different locations. WAiNK spots are quick interactive photo/social spots spread across the state; each new location counts once. They are dense in Vice City itself, so sweep the city districts first, then grab rural ones while exploring for The Goodtime State. Your count is tracked in stats.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Complete 50 of the game's Challenges. Challenges are the short scored tasks the world offers — driving, combat, sports and stunt feats. You will bank many of them naturally while doing activities and races; if you come up short late, open the challenges list and farm the quick repeatable ones. Any 50 count.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "coop",
+      "missable": false,
+      "guide": "With your partner alongside you, reach a 4-star Wanted Level and then lose the heat completely — the trophy pops when the stars clear with your partner still with you. Deliberately build to 4 stars in an open area, then break line of sight and hide until the search ends. Do it away from your other grinds so a long chase does not interrupt anything.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "coop",
+      "missable": false,
+      "guide": "Rob 3 shops back-to-back with your partner without your Wanted Level ever fully clearing between them. Plan a route of three close shops, rob the first, drive straight to the second while still wanted, then the third, and escape after the third robbery. The chain breaks if the heat fully drops, so keep moving and do not hide between shops.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "missable": false,
+      "guide": "Discover 100 different vehicles — a vehicle is discovered the first time you get in and drive it. Normal play covers much of this; to finish it off, sweep parked cars in varied districts (airports, marinas, rich and poor neighbourhoods spawn different pools) and take every new model for a short drive. The vehicle stats screen shows your discovered count.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "guide": "Take down 5 enemies inside a single activation of Combat Focus. Set it up deliberately: find a group of five or more enemies close together — a gang operation or a police standoff works — weaken or line them up, trigger Combat Focus, and drop all five before it ends. If a run fails, reload and retry; it is a setup trophy, not a skill wall.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "Make an unscheduled departure at VCIA — Vice City International Airport. In plain terms: get airborne (or otherwise leave) from the airport without it being part of a scheduled flight or mission — stealing a plane from the field and taking off is the classic route. Expect a wanted level; the trophy pops as you depart.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "guide": "The description — 'Kinda hot in these Rhinos' — points at the Rhino tank. This pops from a Rhino encounter in free roam: Rhinos roll out at the highest wanted levels and around military hardware. Provoke a maximum response, get close to (or into) a Rhino, and the trophy unlocks from the encounter. Go in with armour and an escape vehicle; you do not need to keep the tank.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "crime",
+      "missable": false,
+      "guide": "Rob a jewelry store without being detected. Case the store first, go in quiet — no drawn weapon in view, no alarm, no witness calls — take the goods and walk out calmly. If anyone spots the robbery in progress, leave and try another store rather than forcing it; a clean undetected run is about patience at the door, not speed inside.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "crime",
+      "missable": false,
+      "guide": "Silver trophy: rob 5 Bank Vaults and escape each time. Bank vault robberies are the big free-roam scores — plan an escape route and a fast car before you start, crack the vault, and get clear of the wanted level to bank the robbery. Five different vault jobs; failed escapes do not count, so prioritise getting away over grabbing everything.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "crime",
+      "missable": false,
+      "guide": "Rob an Armored Truck and escape. Armored trucks appear in free roam and on the map as dynamic events — stop one, crack it open (explosives or the rear doors), take the cash and lose the heat. One successful truck is enough; keep a fast car ready because the escort response is quick.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "exploration",
+      "missable": false,
+      "guide": "Explore all 52 areas of Leonida. An area counts once you have actually visited it, so this is a full map tour: drive or fly every district, island and backwater at least once. Combine it with meditation spots, WAiNK locations and card hunting so the tour pays for four trophies at once. The map screen shows which areas are still grey.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "crime",
+      "missable": false,
+      "guide": "Rob an Illegal Operation belonging to each of the 9 gangs. Every gang runs its own operations on its turf — hit one operation per gang, all nine, rather than farming the same gang. Gang operations also make a good setup for Gunslinger's grouped enemies. Tick the gangs off in the tracker as you clear them.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to Ocean Beach in Vice City, order a cocktail at a beach bar or stand, and drink it where you can see the ocean. It is a small ambient moment, not a challenge — if it does not pop at one bar, try another spot along the beachfront.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "Smash your way out of a vehicle showroom in classic style: get into a car inside a vehicle showroom and drive it straight out through the showroom glass. Any showroom with a car on the floor works. It makes a scene, so expect attention — the trophy pops as you burst out.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "guide": "Play bowling at the Kolt & Associates' bowling alley — 'follow-through' is the hint: complete a game at that specific alley. Visit the alley, start a game, and bowl it through to the end. Any score counts; you just need the finished game at that location.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "'A partnership with mass appeal' — this is tied to a story beat where your partnership becomes a public sensation. It progresses through the campaign rather than free roam, so play the story with both protagonists and it unlocks as that beat lands. If you reach the finale without it, replay the partnership's showcase story mission from the mission menu.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": true,
+      "missableNote": "Missable: this counts the choices you make across the whole game, so a playthrough that somehow avoids choice prompts can starve it. Keep a manual save before major decisions so you can revisit them.",
+      "guide": "Make choices whenever the game offers them — dialogue picks, mission approaches, either/or decisions. The PSN counter tracks 500 choices, so this is a whole-playthrough habit, not a single event: never skip a choice prompt, pick the optional approaches when offered, and by the endgame the count should clear comfortably. If you are short late, replayable missions and activities keep offering small choices.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": true,
+      "missableNote": "Missable: if you clear every challenge and checkpoint first try, there is no 'second time' to succeed on. Deliberately fail one early, repeatable attempt so the retry success is banked early.",
+      "guide": "Succeed at something on your second attempt — fail a challenge, race or checkpoint once, then immediately retry it and succeed. Do this early on a cheap repeatable event (an early race or challenge) so it is banked long before the endgame. The trophy pops on the successful retry.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "'What the hell just happened?' — witness one of the strange random world events hidden around Leonida. These are ambient encounters, not map markers: explore off the main roads, including at night and in remote areas, and when something unexplainable happens, stay and watch it play out. It is luck-based, so the more of the map tour for The Goodtime State you do, the sooner it finds you.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "combat",
+      "missable": false,
+      "guide": "Knock someone down with a melee drive-by — swing a melee weapon from a moving vehicle and connect with a person so they go down, bowling-pin style. Ride as driver or passenger alongside a pedestrian or enemy at low speed, time the swing as you pass, and one clean knockdown pops it. A motorcycle makes lining up the pass easiest.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PlayStationTrophies.org — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "money",
+      "missable": false,
+      "guide": "Earn $250,000 by laundering Marked Bills through your contacts. Marked Bills come from robberies and scores; instead of spending them raw, pass them through your laundering contacts until the cumulative laundered total passes $250,000. Feed every robbery payout through the laundry as you go — especially the bank vault money from Maximum Withdrawal — and this finishes well before the endgame cleanup.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "money",
+      "missable": false,
+      "guide": "Spend $100,000 across all shops in total. It is cumulative across every store — vehicles, clothes, weapons, services — so normal upgrading gets you most of the way. If you are short late, buy vehicle upgrades and garage stock rather than wasting cash; there is no requirement to spend it on anything specific.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "money",
+      "missable": false,
+      "guide": "Purchase all 8 garage properties. Garages unlock for purchase as the story and your funds grow; buy each one as it becomes available so the cost is spread out. This is the money trophy that takes the longest — pair it with the laundering and robbery income in the roadmap's money step. The last garage bought pops the trophy.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PowerPyx — Grand Theft Auto VI Trophy Guide & Roadmap",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "guide": "Register 10 vehicles to the Scooter Bros app. When you acquire a vehicle you want to keep, register it in the app; ten registrations total. Register cars as you naturally collect them — story gifts and purchases count — and top up with cheap bought vehicles if you are short at cleanup time.",
+      "sources": [
+        "Official PlayStation trophy description (Grand Theft Auto VI, PS5 trophy list, 2026-11-18)",
+        "PSNProfiles — Grand Theft Auto VI Trophy Guide"
+      ]
+    }
+  ]
+}
