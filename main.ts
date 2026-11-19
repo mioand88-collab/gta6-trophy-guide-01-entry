@@ -1,10 +1,10 @@
 // Leonida Legend — my GTA VI trophy guide & tracker entry for gta6-trophy-guide-01: all 55 trophies with my own cited guide for each, missable warnings, a 7-step platinum roadmap, filters and a spoiler shield in app/.
-// A working gta6-trophy-guide-01 entry (Node 22, standard library only): the guide is this directory's app/ folder,
-// plain static files a browser opens at app/index.html (ES modules, CSS, no build step), offline: it loads nothing
-// over the network, and its trophy list and guides are app/data/trophies.json. The program hands it in: it copies app/
-// and screenshots/ from beside this file to /output and writes /output/dossier.json, the summary the judge reads (your
-// screenshots, the first load's files and bytes, and your source), with the vendored make.fun library. Leave
-// vendor/makefun-frontend.ts as it is: the scorer requires dossier.json to be byte for byte what its own copy writes.
+// A working gta6-trophy-guide-01 entry (Node 22, standard library only). The guide is this directory's app/ folder:
+// plain static files a browser opens at app/index.html (scripts, CSS, no build step), offline — it loads nothing over
+// the network — and its trophy list and guides live in app/data/trophies.json. This program hands it in: it copies app/
+// and screenshots/ from beside this file into /output and writes /output/dossier.json, the summary the judge reads (your
+// screenshots, the first load's files and bytes, and your source), using the vendored make.fun library. Leave
+// vendor/makefun-frontend.ts alone: the scorer requires dossier.json to be byte for byte what its own copy writes.
 //
 // Only the plumbing, not a winner: a plain checklist of the 55 trophies with a one-line hint each. Write a real guide
 // for every trophy in your own words, a roadmap to the platinum, filters and a spoiler setting in app/, put 3 or 4 PNG
