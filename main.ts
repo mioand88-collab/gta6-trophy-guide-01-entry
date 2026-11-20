@@ -7,7 +7,7 @@
 // Run locally the same way the grader runs it:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
-import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { cpSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildDossier } from './vendor/makefun-frontend.ts';
@@ -44,8 +44,13 @@ function verifyOutput(): void {
 
 /** Build the entry's output directory from this repository. */
 function main(): void {
-  rmSync(OUTPUT_DIR, { recursive: true, force: true });
+  // Never remove OUTPUT_DIR itself: in the grader it is a mount point,
+  // and rmSync on a mount point fails with EBUSY (exit 1). Empty only
+  // its contents, then write into it.
   mkdirSync(OUTPUT_DIR, { recursive: true });
+  for (const child of readdirSync(OUTPUT_DIR)) {
+    rmSync(join(OUTPUT_DIR, child), { recursive: true, force: true });
+  }
   copyIntoOutput('app');
   copyIntoOutput('screenshots');
   const dossier = buildDossier(OUTPUT_DIR, DOSSIER_CAPS);
